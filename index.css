@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: wheat;
+    padding: 20px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+    background-color: lightgray;
+    padding: 20px;
+    margin-bottom: 40px;
+}
