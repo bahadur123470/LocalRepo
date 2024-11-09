@@ -30,3 +30,11 @@ p {
     background-color: darkgreen;
     transition: background-color 0.3s ease;
 }
+.repo-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    background-color: seagreen;
+    height: 500px;
+    width: 100%;
+}
